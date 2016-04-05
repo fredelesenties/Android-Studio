@@ -1,0 +1,17 @@
+{
+	"prueba": "holi",
+	"owner":{
+		"name": "Fredele Sentíes Lozano",
+		"matrícula": "A00343822",
+		"hobbie": "Memo's classes <3"
+		},
+	"friends": [
+		{"name":"Fernando López Rubio", "hobbie":"Videogames & Mandilear"}
+		{"name":"Alejandro Cervera", "hobbie":"Clone himself and others (IBT power)"}
+		{"name":"Diego Zamora", "hobbie":"Bother Memo in class"}
+		{"name":"Diego Almada", "hobbie":"Watch Bob Ross' twitch in class"}
+		{"name":"Marian Valdivia", "hobbie":"Anything but programming"}
+		{"name":"Miguel Pérez Durán", "hobbie":"Nothing but play Smash"}
+	]
+
+}

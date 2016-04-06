@@ -1,0 +1,10 @@
+{
+	"FoodLocations":[
+		{"name": "Starbucks Coffe", "lat": "20.734743", "lng": "-103.455373",
+		{"name": "Yum Yum", "lat": "20.734417", "lng": "-103.457632",
+		{"name": "La Selva", "lat": "20.735113", "lng": "-103.455686",
+		{"name": "Güich","lat": "20.7349605", "lng": "-103.4556446",
+		{"name": "Subway", "lat": "20.734547", "lng": "-103.457641",
+		{"name": "Juvie jus", "lat": "20.7345928", "lng": "-103.4576927"
+	]
+}
